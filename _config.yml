@@ -2,6 +2,11 @@ remote_theme: pmarsceill/just-the-docs
 
 title: Eddie Husarcik
 
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: G-RQRHE67N01
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
 # Enable or disable the search button that appears in the bottom right corner of every page
 # Supports true or false (default)
 search.button: true
