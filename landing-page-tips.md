@@ -14,4 +14,4 @@ Landing pages can make or break your website. A fantastic landing page should gr
 
 ## Text
 
-https://marketingexamples.com/conversion/landing-page-guide
+[Landing Page Guide](https://marketingexamples.com/conversion/landing-page-guide)
