@@ -9,6 +9,6 @@ I'm a huge Courtland Allen ([@csallen](https://twitter.com/csallen)) fan. After 
 
 ## Marketing
 
-Laura Roeder ([@lkr](https://twitter.com/lkr)) has fantastic social media marketing advice. 
+Laura Roeder ([@lkr](https://twitter.com/lkr)) has fantastic social media marketing advice. She highlights the importance of reusing content. Especially since most social media platforms only show your content to a small portion of your followers. If you feel like your user base isn't growing, definitely listen to this episode.
 
 <iframe src="https://open.spotify.com/embed/episode/3mtAMJQvjTMkQ55EfWXmOR" width="100%" height="152" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
