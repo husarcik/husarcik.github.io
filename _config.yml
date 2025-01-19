@@ -18,3 +18,4 @@ search_enabled: true
 # jekyll plugins
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
